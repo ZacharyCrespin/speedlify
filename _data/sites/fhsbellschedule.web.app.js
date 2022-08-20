@@ -13,7 +13,6 @@ module.exports = {
 	urls: [
 		"https://fhsbellschedule.web.app",
 		"https://fhsbellschedule.web.app/games",
-		"https://fhsbellschedule.web.app/events",
-		"https://fhsbellschedule.web.app/api",
+		"https://fhsbellschedule.web.app/events"
 	]
 };
